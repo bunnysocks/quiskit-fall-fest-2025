@@ -3,7 +3,7 @@ PS : Simulate a Variational Quantum Eigensolver (VQE) for the ground state energ
 
 ## Overview
 
-VQE is a hybrid algorithm that combines a quantum computer's ability to represent quantum states with a classical optimizer. The goal is to approximate the lowest energy (ground state) of a molecule.
+VQE is a hybrid algorithm that combines a quantum computer's ability to represent quantum states with a classical optimizer. The goal is to approximate the lowest energy (ground state) of a H₂ molecule.
 
 Workflow:
 
